@@ -9,6 +9,6 @@ Fresh BICT grad from Mpumalanga, passionate about AI, IoT, and Cybersecurity. Bu
 
 ### Featured Projects
 - [Smart Farm Hub](https://github.com/ttumiso182/secure-smart-farm-hub): AI-IoT combo for agriculture.
-- [Phishing Simulator](link-to-repo): Training tool for cyber awareness.
+- [Phishing Simulator](https://github.com/ttumiso182/phishing-simulator-trainer.git): Training tool for cyber awareness.
 
 📫 Reach me: https://www.linkedin.com/in/tumiso-phutiyagae-08631b399/ | ttumiso182@gmail.com
