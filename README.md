@@ -11,5 +11,6 @@ Fresh BICT grad from Mpumalanga, passionate about AI, IoT, and Cybersecurity. Bu
 - [Smart Farm Hub](https://github.com/ttumiso182/secure-smart-farm-hub): AI-IoT combo for agriculture.
 - [Phishing Simulator](https://github.com/ttumiso182/phishing-simulator-trainer.git): Training tool for cyber awareness.
 - [Med-Adhere](https://github.com/DABURAcreate/med_adhere.git)- Medication Adherence App
-
+- [LegacyLens](https://github.com/SoSavage321/legacylens.git)- Onbording application
+  
 📫 Reach me: https://www.linkedin.com/in/tumiso-phutiyagae-08631b399/ | ttumiso182@gmail.com
